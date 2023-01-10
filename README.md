@@ -1,6 +1,9 @@
 # Hawaii International Conference on System Sciences, January 3-6, 2023 in Maui, Hawaii.
-Permalink home to HICSS-56 conference presentation and dataset.\
 <img src="https://user-images.githubusercontent.com/39792005/211438461-be18ac7c-0b34-4ab6-b865-7592a8e7b68c.png" width="225"/>
+
+---
+
+Permalink home to [HICSS-56](https://hicss.hawaii.edu/) conference presentation and dataset.
 # Abstract
 The ubiquity of GitHub for software developers to coordinate software development in a community platform has resulted in a rich source of public data. Blockchain teams put open-source code as a founding principle since the release of Bitcoin and nearly all blockchain-based projects have code visible on GitHub. Developer engagement is known to be important to the health and viability of open-source software, yet has varying definitions and no standard method of measuring what constitutes engagement. This work uses exploratory factor analysis to identify dimensions that represent engagement in a community of open-source developers. We find that a latent factor composed of pull-requests, commits, comments, and authors based on a monthly average of the previous three months is a representation of Developer Engagement. A secondary factor consists of stars, forks, and total authors. Cross validation of the dataset is carried out with good support for the model.
 ## Keywords
@@ -28,8 +31,12 @@ Nijsse, Jeff & Litchfield, Alan
 | comments_ma3      | The average number of monthly comments in the repository in the past three months |
 | PR_open_ma3       | The average number of monthly pull requests that were opened in the repository in the past three months |
 | days_inactive     | The number of days since the repository was active |
-## URI/DOI/pdf
-https://hdl.handle.net/10125/103285; [pdf download](Nijsse-Litchfield-Developer-Engagement-HICSS56.pdf)
+## Links
+ - Prodeedings: https://scholarspace.manoa.hawaii.edu/communities/f36bf371-28c7-4427-bff7-718d2c995872
+ - Track: [Organisational Systems and Technology](https://scholarspace.manoa.hawaii.edu/communities/835f186b-1806-455c-9233-5beefc73fbcc)
+ - Mini-Track: Blockchain Cases and Innovations
+ - DOI: https://hdl.handle.net/10125/103285; 
+ - pdf download: [Nijsse-Litchfield-Developer-Engagement-HICSS56.pdf](Nijsse-Litchfield-Developer-Engagement-HICSS56.pdf)
 
 ---
 
