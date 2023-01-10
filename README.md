@@ -31,3 +31,8 @@ Nijsse, Jeff & Litchfield, Alan
 ## URI/DOI/pdf
 https://hdl.handle.net/10125/103285; [pdf download](Nijsse-Litchfield-Developer-Engagement-HICSS56.pdf)
 
+---
+
+Not a bad spot for a conference :cowboy_hat_face:
+
+<img src="https://user-images.githubusercontent.com/39792005/211440457-2014ab67-912f-48e5-9eed-4cb08eb981f3.jpg" width="1000"/>
