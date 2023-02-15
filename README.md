@@ -9,7 +9,7 @@ The ubiquity of GitHub for software developers to coordinate software developmen
 ## Keywords
 Blockchain Cases and Innovations, blockchain, developer engagement, factor analysis, github, open-source software
 ## Authors
-[Jeff Nijsse](https://academics.aut.ac.nz/jeff.nijsse/about) & Alan Litchfield
+[Jeff Nijsse](https://academics.aut.ac.nz/jeff.nijsse/about) & [Alan Litchfield](https://orcid.org/0000-0002-3876-0940)
 ## Dataset
 [full data (csv)](data/blockchain_data_2022-mar.csv)
 ### Preview
