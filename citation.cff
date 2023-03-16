@@ -1,0 +1,29 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Nijsse"
+  given-names: "Jeff"
+  orcid: "https://orcid.org/0000-0002-4199-7201"
+- family-names: "Litchfield"
+  given-names: "Alan"
+  orcid: "https://orcid.org/0000-0002-3876-0940"
+title: "Identifying Developer Engagement in Open Source Software Blockchain Projects through Factor Analysis"
+version: 1.0.0
+doi: https://orcid.org/0000-0002-4199-7201
+date-released: 2023-01-03
+url: "https://github.com/millecodex/maui"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Nijsse"
+    given-names: "Jeff"
+    orcid: "https://orcid.org/0000-0002-4199-7201"
+  - family-names: "Litchfield"
+    given-names: "Alan"
+    orcid: "https://orcid.org/0000-0002-3876-0940"
+  doi: "https://hdl.handle.net/10125/103285"
+  journal: "Proceedings of the 56th Hawaii International Conference on System Sciences"
+  month: 1
+  title: "Identifying Developer Engagement in Open Source Software Blockchain Projects through Factor Analysis"
+  year: 2023
