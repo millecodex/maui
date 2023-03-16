@@ -1,4 +1,3 @@
-type: dataset
 cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below."
 authors:
@@ -10,6 +9,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-3876-0940"
 title: "Identifying Developer Engagement in Open Source Software Blockchain Projects through Factor Analysis"
 version: 1.0.0
-doi: https://orcid.org/0000-0002-4199-7201
 date-released: 2023-01-03
 url: "https://github.com/millecodex/maui"
+type: dataset
